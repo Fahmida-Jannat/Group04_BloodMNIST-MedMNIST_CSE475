@@ -1,5 +1,5 @@
 # Group04_BloodMNIST-MedMNIST_CSE475
-# BloodMNIST Classification Using Image-to-Graph GCN
+
 
 ## Course Information
 
