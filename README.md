@@ -14,9 +14,9 @@
 
 ## Group Members
 
-| Name | Student ID |
-|---|---|---:|
-| Fahmida Jannat | Student ID 2025-1-60-334 |
-| Nishat Subha Mithela | Student ID 2023-1-60-248	 |
-| Nusrat Jahan | Student ID: 2022-2-60-128 |
-| Humayara Nahar Moumita | Student ID 2021-2-60-12 |
+| Member Name | Student ID |
+|---|---|
+| Fahmida Jannat | 2025-1-60-334 |
+| Nishat Subha Mithela |  2023-1-60-248	 |
+| Nusrat Jahan |  2022-2-60-128 |
+| Humayara Nahar Moumita |  2021-2-60-12 |
